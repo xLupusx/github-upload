@@ -1,6 +1,8 @@
 # Pok Deng
 
-A sophomore year's project I did in order to learn Java's Swift GUI, based on a simple Thai card game called *Pok Deng*.
+A sophomore year's project I did in order to learn Java's Swift GUI, and upload to GitHub in order to learn Git.
+
+Based on a simple Thai card game called *Pok Deng*.
 
 Written in Java with Netbeans IDE.
 
