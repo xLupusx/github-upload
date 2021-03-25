@@ -1,6 +1,6 @@
 # Pok Deng
 
-A sophomore year's project I did in order to learn Java's Swift GUI, and upload to GitHub in order to learn Git.
+A sophomore year's project I did back in 2018 as a way to learn Java's Swift GUI, uploaded to GitHub in 2020 in order to learn Git.
 
 Based on a simple Thai card game called *Pok Deng*.
 
